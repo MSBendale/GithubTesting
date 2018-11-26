@@ -17,7 +17,11 @@ class ViewController: UIViewController {
 
     func authenticate() {
         
-    }  
+    }
+    
+    func login() {
+        
+    }
 
 }
 
