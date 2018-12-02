@@ -10,18 +10,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-    }
-
-    func authenticate() {
-        
-    }
+    private let username = "username"
+    private let password = "password"
     
-    func login() {
-        
+    func authenticateUser(with userName: String, password: String) -> Bool {
+        return self.username == userName && self.password == password
     }
-
 }
 
