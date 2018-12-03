@@ -24,7 +24,7 @@ class CISampleTests: XCTestCase {
         let succeed = viewcontroller.authenticateUser(with: "username", password: "password")
         
         XCTAssert(succeed)
-        
+         
     }
 
 }
