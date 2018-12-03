@@ -385,6 +385,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = TKH856G5A9;
+				ENABLE_TESTABILITY = YES;
 				INFOPLIST_FILE = CISample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
