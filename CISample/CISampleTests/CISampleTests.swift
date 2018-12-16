@@ -31,7 +31,7 @@ class CISampleTests: XCTestCase {
     }
     
     func testValidAgeForVote() {
-        let age = 120
+        let age = 17
         XCTAssertGreaterThanOrEqual(age, validAge ?? 0)
     }
 }
