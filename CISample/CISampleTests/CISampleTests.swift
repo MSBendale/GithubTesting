@@ -21,7 +21,7 @@ class CISampleTests: XCTestCase {
     
     func testAuthenticateUser() {
         let viewcontroller = ViewController()
-        let succeed = viewcontroller.authenticateUser(with: "username", password: "password")
+        let succeed = viewcontroller.authenticateUser(with: "username1", password: "password")
         
         XCTAssert(succeed)
          
