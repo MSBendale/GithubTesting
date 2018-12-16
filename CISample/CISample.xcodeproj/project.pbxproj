@@ -26,7 +26,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A62FCEE821AA8B5D001090A0 /* ExportOptions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ExportOptions.plist; sourceTree = "<group>"; };
 		A6CC0E922169F67900EAD3ED /* CISample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CISample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6CC0E952169F67900EAD3ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A6CC0E972169F67900EAD3ED /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,7 +82,6 @@
 				A6CC0E992169F67900EAD3ED /* Main.storyboard */,
 				A6CC0E9C2169F67A00EAD3ED /* Assets.xcassets */,
 				A6CC0E9E2169F67A00EAD3ED /* LaunchScreen.storyboard */,
-				A62FCEE821AA8B5D001090A0 /* ExportOptions.plist */,
 				A6CC0EA12169F67A00EAD3ED /* Info.plist */,
 			);
 			path = CISample;
