@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "54e8f61a1936618b1130fccb220e9b36"
-build_time: [1544951752, 72997000]
-inputs:
-  "/Users/Shared/Jenkins/Desktop/GithubTesting/CISample/CISample/ViewController.swift": [9223372036, 854775807]
-  "/Users/Shared/Jenkins/Desktop/GithubTesting/CISample/CISample/AppDelegate.swift": [9223372036, 854775807]
