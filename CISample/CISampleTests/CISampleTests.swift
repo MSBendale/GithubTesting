@@ -28,10 +28,10 @@ class CISampleTests: XCTestCase {
         let succeed = viewcontroller.authenticateUser(with: "username", password: "password")
         
         XCTAssert(succeed)
-    } 
+    }
     
     func testValidAgeForVote() {
         let age = 18
-        XCTAssertGreaterThanOrEqual(age, validAge ?? 0)
+        XCTAssertGreaterThanOrEqual(age, validAge ?? 0) 
     }
 }
